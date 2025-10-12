@@ -1,0 +1,13 @@
+Metric,Value
+Model,Multi-Layer Perceptron (MLP)
+Model Path,/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/models/traffic_sign_mlp_final.h5
+Test Samples,12630
+Test Accuracy,0.9888
+Precision (Weighted),0.9888
+Recall (Weighted),0.9888
+Weighted F1 Score,0.9888
+Macro F1 Score,0.9896
+Mean Confidence,0.9850
+Correct Predictions,12488
+Incorrect Predictions,142
+Error Rate,0.0112

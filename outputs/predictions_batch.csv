@@ -1,0 +1,9 @@
+image,pred_label,pred_index,confidence,unknown,top1,top1_prob,top2,top2_prob,top3,top3_prob
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/00000.png,Class 16,16,0.9992694854736328,False,Class 16,0.9992694854736328,Class 40,0.0006268376600928605,Class 10,7.161094254115596e-05
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/00001.png,Class 1,1,0.9931201338768005,False,Class 1,0.9931201338768005,Class 7,0.004347397014498711,Class 5,0.0009417319670319557
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/00007.png,Class 12,12,0.999798059463501,False,Class 12,0.999798059463501,Class 4,4.069515853188932e-05,Class 32,2.9012129743932746e-05
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/00017.png,Class 20,20,0.9822400212287903,False,Class 20,0.9822400212287903,Class 3,0.008293291553854942,Class 28,0.00440847547724843
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/00034.png,Class 2,2,0.9999526143074036,False,Class 2,0.9999526143074036,Class 1,3.906355777871795e-05,Class 24,5.202871761866845e-06
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/00049.png,Class 1,1,0.6860161423683167,False,Class 1,0.6860161423683167,Class 2,0.09263443201780319,Class 7,0.0530332513153553
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/30-speed-limit.png,Class 1,1,0.6959176659584045,False,Class 1,0.6959176659584045,Class 11,0.1297498196363449,Class 16,0.06871145218610764
+/Applications/SLIIT/Y4/S1/DL/Assignment/TrafficSignRecognition_MLP_model/data/predict/50.jpg,Class 1,1,0.6600837707519531,False,Class 1,0.6600837707519531,Class 2,0.3384198844432831,Class 3,0.00044429744593799114
